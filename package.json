@@ -3,9 +3,6 @@
   "version": "2.1.1",
   "description": "Artisanal inbound emails for every web app using nodejs",
   "main": "index.js",
-  "bin": {
-    "nodeMailin": "run-cli.js"
-  },
   "scripts": {
     "test": "node -e \"require('grunt').tasks(['mochaTest']);\""
   },
